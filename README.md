@@ -31,7 +31,7 @@ npm install node-fetch
 
 1️⃣ Clonar el Repositorio
 
-  git clone https://github.com/tu-usuario/starwars-api.git
+  git clone [https://github.com/tu-usuario/starwars-api.git](https://github.com/JuniorAbad/LoginAPIRESTSWAPIRedis-DockerfileDocker.git)
   cd starwars-api
 
 2️⃣ Configurar Variables de Entorno
